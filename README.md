@@ -1,2 +1,5 @@
 # RivaFirstSteps
-First Steps to Design an Intelligent Assistant for Hands-free Applications using NVIDIA Riva
+This repo contains the Jupyter notebook for the NVIDIA GTC Fall 2021 talk:
+Your First Steps to Design an Intelligent Assistant for Hands-free Applications [A31186]
+
+Talk Abstract: Practical conversational AI systems like intelligent assistants (IA) now provide spoken responses to users’ requests in a short fraction of a second, thanks to accelerated computing. Learn the initial steps to create an example IA for a hands-free application: performing an upgrade to an aircraft while keeping maintenance notes. We examine the enablers for an IA based on NVIDIA’s Riva SDK, including a consideration of design trade-offs for the STT subsystem, options for question answering (QA), the application of neural machine translation in QA, and how to provide verbal responses in high-quality synthetic speech. We further examine the role of accelerated computer vision for an intelligent assistant to guide technicians in their work in real time, all while monitoring visually to prevent errors. Finally, we demonstrate programming with Riva, highlighting the APIs you need to call on your path to creating your own conversational AI system.
